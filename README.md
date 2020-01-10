@@ -7,7 +7,7 @@ LocalStorage_XSSLAB_Payload
 
 一些场景参考：
 1、在RESTful WEB API或者H5运用，弃用cookie，使用jwt或者别的技术手段来做API身份验证，使用本地存储LocalStorage来做身份存储。
-2、通常前后端分离的WEBAPP SAP运用 VUE中XSS攻击与防御研究。
+2、通常前后端分离的WEBAPP SPA运用 VUE中XSS攻击与防御研究。
 
 
 ### 脚本说明
